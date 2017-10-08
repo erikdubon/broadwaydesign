@@ -22,7 +22,8 @@ ul {
   list-style-type: none;
 }
 
-a {
+a,
+.footer a {
   font-size: 18px;
   color: white;
 }
@@ -37,4 +38,17 @@ h3 {
 
 p {
   font-size: 14px;
+}
+
+.NewYork {
+  font-size: 23px;
+  color: white;
+  background-image: url("../images/the-flatiron-building.png");
+}
+
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
 }
